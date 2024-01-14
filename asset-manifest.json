@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_calculator/static/css/main.a50ebb26.css",
+    "main.js": "/react_calculator/static/js/main.537110c5.js",
+    "static/media/patternpad.png": "/react_calculator/static/media/patternpad.8aa4df573bcdb06a5363.png",
+    "index.html": "/react_calculator/index.html",
+    "main.a50ebb26.css.map": "/react_calculator/static/css/main.a50ebb26.css.map",
+    "main.537110c5.js.map": "/react_calculator/static/js/main.537110c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a50ebb26.css",
+    "static/js/main.537110c5.js"
+  ]
+}
