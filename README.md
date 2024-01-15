@@ -1,8 +1,10 @@
 # React Calculator
 
-A simple calculator with React. I built this project for just get more knowledge about how the calculations work in React
+A simple calculator with React. I built this project just to get more knowledge about how the calculations work in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### Demo: https://itsabdullah2.github.io/react_calculator/
 
 ## Available Scripts
 
